@@ -70,7 +70,7 @@
     "tarball-extract": "0.0.3",
     "tmp": "0.0.33",
     "unzip": "0.1.x",
-    "urllib": "^2.34.1",
+    "urllib": "^2.38.1",
     "userid": "0.3.x",
     "uuid": "3.0.x",
     "which": "1.2.x",
